@@ -1,6 +1,6 @@
 ## App-Nutricion: desktop app developed whit Electron and React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br>
 This project follow the steps from (https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 
 ## Available Scripts
