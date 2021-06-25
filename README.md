@@ -8,7 +8,7 @@ React React-Route Redux Redux-Form Electron.
 
 ### Base de Datos: electron-db
 
-### Caputras:
+### Capturas:
 
 ![](/capturas/home.png)
 ![](/capturas/historia-personal.png)
